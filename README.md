@@ -10,6 +10,7 @@ The goal of this project is to replicate the **layout, typography, spacing, and 
 
 ---
 
+
 ## 🔗 Live Demo
 (Hosted using Netlify)
 
